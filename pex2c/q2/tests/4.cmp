@@ -1,8 +1,0 @@
-Your Output                   Expected Output               
-
-Original		      Original
-5098765 Kartik 3710 72.8      5098765 Kartik 3710 72.8
-5031747 Edward 3710 61.0      5031747 Edward 3710 61.0
-Filtered		      Filtered
-      0	    0 0.0	      5098765 Kartik 3710 72.8
-5098765 Kartik 3710 72.8      5031747 Edward 3710 61.0
